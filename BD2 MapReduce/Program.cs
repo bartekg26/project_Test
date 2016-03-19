@@ -20,11 +20,11 @@ namespace BD2_MapReduce
 
             List<KeyValuePair<int, int>> wynik_reducera = reducer.Zsumuj(wynik);
 
-<<<<<<< HEAD
-            Console.WriteLine("okeyzmieniono");
-=======
+
+            Console.WriteLine("okeyzmieniono1212");
+
             Console.WriteLine("okeybbbb");
->>>>>>> origin/master
+
             //System.Console.WriteLine(wynik_reducera);
             System.Console.ReadLine();
         }
