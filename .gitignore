@@ -51,6 +51,7 @@ x64/
 build/
 [Bb]in/
 [Oo]bj/
+.exe
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
@@ -88,11 +89,13 @@ ipch/
 *.opensdf
 *.sdf
 *.cachefile
+*.exe
 
 # Visual Studio profiler
 *.psess
 *.vsp
 *.vspx
+*.exe
 
 # Guidance Automation Toolkit
 *.gpState
@@ -154,6 +157,7 @@ ClientBin/
 *.[Pp]ublish.xml
 *.pfx
 *.publishsettings
+.exe
 
 # RIA/Silverlight projects
 Generated_Code/

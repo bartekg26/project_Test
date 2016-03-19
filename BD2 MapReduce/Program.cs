@@ -21,7 +21,7 @@ namespace BD2_MapReduce
             List<KeyValuePair<int, int>> wynik_reducera = reducer.Zsumuj(wynik);
             
            
-            Console.WriteLine("okeyzmienionooooooooo");
+            Console.WriteLine("okeyzmienionoooooooooyyy");
 
             //System.Console.WriteLine(wynik_reducera);
             System.Console.ReadLine();
