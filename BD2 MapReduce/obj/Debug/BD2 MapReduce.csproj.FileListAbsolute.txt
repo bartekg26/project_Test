@@ -6,11 +6,3 @@ c:\users\student\documents\visual studio 2013\Projects\BD2 MapReduce\BD2 MapRedu
 c:\users\student\documents\visual studio 2013\Projects\BD2 MapReduce\BD2 MapReduce\obj\Debug\BD2 MapReduce.pdb
 c:\users\student\documents\visual studio 2013\Projects\BD2 MapReduce\BD2 MapReduce\bin\Debug\Wektor.txt
 c:\users\student\documents\visual studio 2013\Projects\BD2 MapReduce\BD2 MapReduce\bin\Debug\macierz.txt
-C:\Users\student\Documents\GitHub\project_Test\BD2 MapReduce\bin\Debug\BD2 MapReduce.exe.config
-C:\Users\student\Documents\GitHub\project_Test\BD2 MapReduce\obj\Debug\BD2 MapReduce.exe
-C:\Users\student\Documents\GitHub\project_Test\BD2 MapReduce\obj\Debug\BD2 MapReduce.pdb
-C:\Users\student\Documents\GitHub\project_Test\BD2 MapReduce\bin\Debug\macierz.txt
-C:\Users\student\Documents\GitHub\project_Test\BD2 MapReduce\bin\Debug\Wektor.txt
-C:\Users\student\Documents\GitHub\project_Test\BD2 MapReduce\bin\Debug\BD2 MapReduce.exe
-C:\Users\student\Documents\GitHub\project_Test\BD2 MapReduce\bin\Debug\BD2 MapReduce.pdb
-C:\Users\student\Documents\GitHub\project_Test\BD2 MapReduce\obj\Debug\BD2 MapReduce.csprojResolveAssemblyReference.cache
