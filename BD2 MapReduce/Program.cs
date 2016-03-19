@@ -21,7 +21,12 @@ namespace BD2_MapReduce
             List<KeyValuePair<int, int>> wynik_reducera = reducer.Zsumuj(wynik);
             dffdfdfd
 
+<<<<<<< HEAD
             Console.WriteLine("okeyzmieniono1218888");
+=======
+
+            Console.WriteLine("okeyzmieniono1212");
+>>>>>>> parent of b839601... komit2
 
             Console.WriteLine("okeybbbb");
 
