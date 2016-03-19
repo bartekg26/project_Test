@@ -25,6 +25,13 @@ namespace BD2_MapReduce
             Console.WriteLine("okeybbbb");
             Console.WriteLine("okeyzmieniono");
 
+
+
+            Console.WriteLine("okeyzmieniono1218888");
+            Console.WriteLine("master nie dzialal");
+            Console.WriteLine("okeybbbb");
+            Console.WriteLine("okeyzmieniono");
+
             //System.Console.WriteLine(wynik_reducera);
             System.Console.ReadLine();
         }
