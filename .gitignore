@@ -221,3 +221,7 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+BD2 MapReduce/obj/Debug/BD2 MapReduce.pdb
+*.exe
+*.pdb
+*.exe
