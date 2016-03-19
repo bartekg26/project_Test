@@ -221,6 +221,7 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+<<<<<<< HEAD
 BD2 MapReduce/obj/Debug/BD2 MapReduce.pdb
 *.exe
 *.pdb
@@ -229,3 +230,5 @@ BD2 MapReduce/obj/Debug/BD2 MapReduce.pdb
 *.pdb
 BD2 MapReduce/obj/Debug/BD2 MapReduce.pdb
 BD2 MapReduce/bin/Debug/BD2 MapReduce.pdb
+=======
+>>>>>>> parent of 54166d7... thythyth
