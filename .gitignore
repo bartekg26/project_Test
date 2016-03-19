@@ -225,3 +225,5 @@ BD2 MapReduce/obj/Debug/BD2 MapReduce.pdb
 *.exe
 *.pdb
 *.exe
+*.exe
+*.pdb
