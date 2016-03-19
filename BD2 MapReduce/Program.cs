@@ -19,8 +19,11 @@ namespace BD2_MapReduce
             //System.Console.WriteLine(wynik);
 
             List<KeyValuePair<int, int>> wynik_reducera = reducer.Zsumuj(wynik);
-            
+            dffdfdfd
+
+<<<<<<< HEAD
             Console.WriteLine("okeyzmieniono1218888");
+<<<<<<< HEAD
             Console.WriteLine("okeyzmieniono1212");
             Console.WriteLine("okeybbbb");
             Console.WriteLine("okeyzmieniono");
@@ -28,12 +31,25 @@ namespace BD2_MapReduce
 
             Console.WriteLine("okeyzmieniono1218888");
             Console.WriteLine("master nie dzialal");
-            Console.WriteLine("okeybbbb");
-            Console.WriteLine("okeyzmieniono");
+=======
+=======
 
+            Console.WriteLine("okeyzmieniono1212");
+>>>>>>> parent of b839601... komit2
+
+>>>>>>> parent of 1fde67c... prawidłowy do master
+            Console.WriteLine("okeybbbb");
+
+<<<<<<< HEAD
 
             
 
+=======
+<<<<<<< HEAD
+=======
+            Console.WriteLine("okeyzmieniono");
+>>>>>>> parent of 591f99e... cdscdc
+>>>>>>> parent of 1fde67c... prawidłowy do master
             //System.Console.WriteLine(wynik_reducera);
             System.Console.ReadLine();
         }
