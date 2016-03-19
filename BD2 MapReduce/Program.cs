@@ -30,6 +30,10 @@ namespace BD2_MapReduce
 
             Console.WriteLine("okeybbbb");
 
+<<<<<<< HEAD
+=======
+            Console.WriteLine("okeyzmieniono");
+>>>>>>> parent of 591f99e... cdscdc
             //System.Console.WriteLine(wynik_reducera);
             System.Console.ReadLine();
         }
