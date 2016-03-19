@@ -19,21 +19,12 @@ namespace BD2_MapReduce
             //System.Console.WriteLine(wynik);
 
             List<KeyValuePair<int, int>> wynik_reducera = reducer.Zsumuj(wynik);
-            dffdfdfd
-
-<<<<<<< HEAD
+            
             Console.WriteLine("okeyzmieniono1218888");
-=======
-
-            Console.WriteLine("okeyzmieniono1212");
->>>>>>> parent of b839601... komit2
-
+            Console.WriteLine("master nie dzialal");
             Console.WriteLine("okeybbbb");
-
-<<<<<<< HEAD
-=======
             Console.WriteLine("okeyzmieniono");
->>>>>>> parent of 591f99e... cdscdc
+
             //System.Console.WriteLine(wynik_reducera);
             System.Console.ReadLine();
         }
