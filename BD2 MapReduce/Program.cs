@@ -20,11 +20,15 @@ namespace BD2_MapReduce
 
             List<KeyValuePair<int, int>> wynik_reducera = reducer.Zsumuj(wynik);
 
+<<<<<<< HEAD
 
             Console.WriteLine("okeyzmieniono5959");
 
             Console.WriteLine("okeybbbb");
 
+=======
+            Console.WriteLine("okey");
+>>>>>>> parent of d7584ef... komit branch
             //System.Console.WriteLine(wynik_reducera);
             System.Console.ReadLine();
         }
